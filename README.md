@@ -1,8 +1,7 @@
 # Speech-Emotion-Recognition-CS-5530
 This is an attempt to accurately classify the emotion of a speaker in (near) realtime. The Jupyter notebook outlines each step of the process including EDA, data sourcing, cleaning, feature engineering, modeling, evaluation, and web interface deployment.
 
-Devlog
-**3/20/2025: Feature engineering / refinement**
+**Devlog 3/20/2025: Feature engineering / refinement**
 As you can see from the following confusion matricies, the current performance is pretty mediocre.
 "strong/normal" features of each emotion are plotted adjacent to eachother for easier comparison. 
 
